@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "31457277282",
+    "firebase_url": "https://agent-name-7962c.firebaseio.com",
+    "project_id": "agent-name-7962c",
+    "storage_bucket": "agent-name-7962c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31457277282:android:455eda900369ff45",
+        "android_client_info": {
+          "package_name": "com.example.okcomputers.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31457277282-g30l0khe4l5ufqbb346u88tcg9s635sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE6eia8EGCGisxSp6cY9fhBzz3-pVXsSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
